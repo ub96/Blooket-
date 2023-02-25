@@ -1,1 +1,2 @@
-# Blooket-
+# Blooket++
+An advanced version of blooket
